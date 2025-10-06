@@ -1,4 +1,4 @@
-My Neural-Network-SMS-Text-Classifier Project
+Neural-Network-SMS-Text-Classifier
 
 This project is a machine learning model that classifies SMS messages as spam or ham using a neural network.
 
